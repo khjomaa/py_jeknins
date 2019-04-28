@@ -7,4 +7,6 @@ def show_time():
 
 if __name__ == "__main__":
     print('The current date and time is:')
+    print("=" * 26)
     show_time()
+    print("=" * 26)
